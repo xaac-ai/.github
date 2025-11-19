@@ -1,3 +1,3 @@
-# 🤖 Xaac AI
+# 🦉 Xaac AI
 
-Pioneers in Computer Vision and GenAI
+Helping Accountants with AI
