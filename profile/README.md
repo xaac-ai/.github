@@ -1,3 +1,3 @@
-# 🦉 Xaac AI
+# 🦉 Annuit AI
 
 Helping Accountants with AI
